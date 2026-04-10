@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>Mon CV</title>
+ <link rel="stylesheet" href = "style.css">
+</style>
+</head>
+<body>
+<div class="cv">
+    <div class="left">
+        <img src="profil.jpeg" alt="Ma photo">
+        <h2>Abderrahaman Mirry</h2>
+        <p>Email :abderrahaman Mirry @gmail.com</p>
+        <p>Téléphone : 0703698898</p>
+    </div>
+    <div class="right">
+        <h3>Profil</h3>
+        <p>Étudiant en informatique motivé, à la recherche d’un stage pour développer ses compétences en programmation (HTML et CSS)</p>
+        <h3>Formation</h3>
+        <ul>
+            <li>2025Baccalauréat en svt – Lycée bomale ndads </li>
+            <li>2026 - Étudiant en AIL en FPO - Faculté Polydisciplinaire de Ouarzazate</li>
+        </ul>
+
+        <h3>Compétences</h3>
+        <ul>
+            <li>HTML / CSS</li>
+            <li>Python</li>
+            <li>Logiciels : Word, Excel</li>
+            <li>Langues : Amazigh(maternelle)</li>
+            <li>Langues : Arabe, Français, Anglais</li>
+        </ul>
+        <h3>Expérience</h3>
+        <ul>
+        <li>Gestion des fichiers</li>
+        </ul>
+    </div>
+</div>
+</body>
+</html>
